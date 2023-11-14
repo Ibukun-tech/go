@@ -1,13 +1,6 @@
-package main
+package goes
 
-import "fmt"
-
-func main() {
-	fmt.Println("I have been feeling very well")
-	thinkingWell()
-}
-
-func thinkingWell() string {
+func ThinkingWell() string {
 	return "You are still learning and the best way to learn is by doingthe practical of what you did"
 }
 func Math(value int, value1 int, s string) int {
